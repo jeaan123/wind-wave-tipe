@@ -1,5 +1,4 @@
 #YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS  TIDE
-#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC   mi    ft
 2017 12 31 23 50  66  7.2  8.8  1.48 14.81  5.47 282 1018.2  22.1  23.0 999.0 99.0 99.00
 2018 01 01 00 50  61  6.7  8.0  1.46  7.69  5.37  40 1018.1  22.1  23.0 999.0 99.0 99.00
 2018 01 01 01 50  54  6.6  7.8  1.48  8.33  5.54  41 1018.3  21.9  23.0 999.0 99.0 99.00
