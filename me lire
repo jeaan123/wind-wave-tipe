@@ -1,5 +1,0 @@
-prendre les donnes de https://www.ndbc.noaa.gov/
-
-les formaters au format csv grace au script python ci joint
-
-tel que [vitesse du vent,taille des vague,periode,pression,temperature,direction du vents]
